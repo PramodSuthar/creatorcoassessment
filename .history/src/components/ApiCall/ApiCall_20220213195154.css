@@ -1,0 +1,16 @@
+.container {
+    width: auto;
+    border-radius: 6px;
+    margin: 10px;
+    padding: 5px;
+}
+
+.users-grid {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, auto);
+    grid-gap: 2em;
+    border-collapse: separate;
+    font-size: 1.15rem !important;
+}

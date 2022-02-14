@@ -1,0 +1,36 @@
+.header-main {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-main_logo {
+    padding: 10px 0px;
+}
+
+.btn-theme {
+    padding: 0;
+    transition: 1000ms;
+    border: none;
+    background: none;
+    cursor: pointer;
+    color: var(--theme-button-color);
+}
+
+
+.btn-theme:active {
+    transform: translateY(-5px);
+}
+
+.banner {
+
+    display: flex;
+    text-align: end;
+    justify-content: space-evenly;
+
+}
+
+.assess-text {
+    font-size: 30px;
+    padding-top: 10px;
+    padding-left: 15px;
+}

@@ -1,0 +1,14 @@
+@font-face {
+  font-family: Campton-Light;
+  src: url('./assets/fonts/CamptonLight.otf') format('OTF')
+}
+
+@font-face {
+  font-family: Campton-Medium;
+  src: url('./assets/fonts/CamptonMedium.otf') format('OTF')
+}
+
+@font-face {
+  font-family: Campton-Semibold;
+  src: url('./assets/fonts/CamptonSemiBold.otf') format('OTF');
+}
