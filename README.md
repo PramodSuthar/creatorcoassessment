@@ -1,7 +1,12 @@
 # Creator.co Assessment
 
 This project created as a part of the Technical Assessment for Junior Developer role at Creator.co
-Thanks you and Shoutout to Alex and Priyanka for giving me the opportunity to have a go at this Technical Assessment
+Thanks you Alex and Priyanka for giving me the opportunity to have a go at this Technical Assessment.
+
+The live link is : https://creator-assessment.netlify.app/
+
+I have also added a mobile view and a dark mode for the link in the site. 
+
 
 ## Available Scripts
 
